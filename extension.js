@@ -459,7 +459,7 @@ Manager.prototype = {
 		let currentWorkspace = global.screen.get_active_workspace();
 		let currentIndex = 0;
 
-		if (binding == "switch_windows") {
+		if (binding == "switch_group") {
 			list = this._workspaces;
 			thumbnails = new WorkspacesThumbnailList(list);
 			onActivateSelected = this._activateSelectedWorkspace;
