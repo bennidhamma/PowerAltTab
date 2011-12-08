@@ -1,6 +1,8 @@
 Power Alt-Tab
 Author: Edgar Merino <donvodka at gmail dot com>
 
+Note: I modified Edgar's work, and just swapped the Alt-Tab and Alt-` keys. --bennidhamma (Ben Joldersma)
+
 Gnome-Shell extension that replaces predefined Alt-Tab behaviour.
 
 Replacing means two things:
